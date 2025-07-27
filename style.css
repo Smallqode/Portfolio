@@ -324,7 +324,7 @@ header ul a:hover{
 }
 
 .card video{
-  margin-top: 10%;
+  margin-top: 0%;
   width: 65%;
   height: 65%;
   object-fit: contain;
@@ -367,7 +367,7 @@ header ul a:hover{
   bottom: 12%;
 }
 .card:nth-child(3) h1{
-  bottom: 21%;
+  bottom: 25%;
 }
 .card:nth-child(4) {
   grid-column: span 2;
