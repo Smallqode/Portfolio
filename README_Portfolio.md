@@ -52,7 +52,7 @@ portfolio/
 
 ## 📸 Screenshots
 
-> `Images/` 
+> ![Preview](Images/About-section.jpg)![Preview](Images/Contact-Section.jpg) 
 
 ---
 
@@ -74,23 +74,15 @@ To run the portfolio locally:
 
 ---
 
-## 🎯 How to Customize
-
-- ✏️ Replace text and update image/video assets in the `Images/` and `Videos/` folders.
-- 🔗 Update social links and project links in `index.html`.
-- ✉️ Connect the contact form to Formspree, EmailJS, or your backend.
-- 🎥 Replace `hero-video.mp4` and `projectX.mp4` with your own videos.
-
----
 
 ## 📬 Contact
 
-Made with ❤️ by **Smallqode**
+Made by **Smallqode**
 
-- 🌐 Portfolio: [Live Website](#) <!-- Replace with actual link -->
-- 📧 Email: your.email@example.com
+- 🌐 Portfolio: [https://smallqode.github.io/Portfolio/](#) <!-- Replace with actual link -->
+- 📧 Email: myemail@example.com
 - 🐙 GitHub: [github.com/smallqode](https://github.com/smallqode)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [https://www.linkedin.com/in/saugataghosh12/](https://linkedin.com/in/yourprofile)
 
 ---
 
