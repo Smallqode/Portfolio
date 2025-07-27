@@ -823,6 +823,10 @@ footer h1{
   .blackhole-box video{
     margin-top: -20%;
   }
+  .back-vid{
+    height: 125%;
+    width: auto;
+  }
   .hero-info h1{
     font-size: 40px;
     max-width: 400px;
